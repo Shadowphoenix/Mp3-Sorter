@@ -1,0 +1,2 @@
+Put all files into one directory, and execute this script from the same directory.
+It only copies UNLESS EXISTS so sourefile stays at sourcedestination and Name-Duplicates will not overwrite destination.
